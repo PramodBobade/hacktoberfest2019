@@ -35,6 +35,7 @@ static const unsigned char PROGMEM logo16_glcd_bmp[] =
 }
 ;
 
+Serial.println("hello world");
  
  
  
