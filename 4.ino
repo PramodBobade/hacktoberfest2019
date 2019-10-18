@@ -16,7 +16,7 @@ void setup() {
 
 }
 
-
+Serial.println("hello world");
 // 0 white
 // 1 black
 int s2,s3,s4,s5;
